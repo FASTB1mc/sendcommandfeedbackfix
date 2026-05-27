@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "A lightweight datapack that sets the gamerule send_command_feedback to true",
+    "pack_format": 94.1
+  }
+}
